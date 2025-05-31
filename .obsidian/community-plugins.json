@@ -1,4 +1,17 @@
 [
   "obsidian-git",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "aprils-automatic-timelines",
+  "obsidian42-brat",
+  "buttons",
+  "obsidian-charts",
+  "obsidian-chartsview-plugin",
+  "obsidian-custom-frames",
+  "new-tab-default-page",
+  "obsidian-excalidraw-plugin",
+  "obsidian-excel-to-markdown-table",
+  "obsidian-5e-statblocks",
+  "folder-notes"
 ]

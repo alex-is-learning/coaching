@@ -11,6 +11,7 @@ obsidianUIMode: preview
 
 > [!NOTE|div-m] Parent Region: `INPUT[suggester(optionQuery(#Category/Region)):MyContainer]`
 
+
 > [!column|no-i no-t]
 >> [!info|no-title] Map
 >> ```leaflet  
