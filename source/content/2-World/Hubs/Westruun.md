@@ -2,7 +2,7 @@
 tags:
   - Category/Hub
 container: Test
-MyContainer: "[[2-World/Regions/Tal'Dorie.md|Tal'Dorie]]"
+MyContainer: "[[Tal'Dorie|Tal'Dorie]]"
 MyCategory: City +1500
 obsidianUIMode: preview
 ---

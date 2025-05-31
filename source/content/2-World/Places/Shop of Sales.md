@@ -1,7 +1,7 @@
 ---
 tags:
   - Category/Place
-MyContainer: "[[2-World/Hubs/City of Trade.md|City of Trade]]"
+MyContainer: "[[City of Trade|City of Trade]]"
 MyCategory: Commerce
 obsidianUIMode: preview
 ---

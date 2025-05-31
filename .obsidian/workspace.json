@@ -165,27 +165,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d98b3eda6fc8549f",
+  "active": "be641e48d9e50b5a",
   "lastOpenFiles": [
-    "2-World/Regions/Wildemount.md",
-    "2-World/Regions/Tal'Dorie.md",
-    "2-World/Regions/Shattered Teeth.md",
-    "2-World/Regions/Marquet.md",
-    "2-World/Regions/Exandria.md",
-    "2-World/Regions/Issylra.md",
-    "2-World/Places/Session notes.md",
-    "2-World/Places/Shop of Sales.md",
-    "2-World/People/Shop Guy.md",
-    "2-World/People/Lysandra Kallos.md",
-    "2-World/Hubs/City of Trade.md",
-    "2-World/Hubs/Westruun.md",
-    "2-World/Regions",
-    "2-World/Places",
-    "2-World/People",
-    "2-World/Hubs",
-    "2-World"
+    "source/content/2-World/Regions/Wildemount.md",
+    "source/content/2-World/Regions/Tal'Dorie.md",
+    "source/content/2-World/Regions/Shattered Teeth.md",
+    "source/content/2-World/Regions/Marquet.md",
+    "source/content/2-World/Regions/Exandria.md",
+    "source/content/2-World/Regions/Issylra.md",
+    "source/content/2-World/Places/Session notes.md",
+    "source/content/2-World/Places/Shop of Sales.md",
+    "source/content/2-World/People/Shop Guy.md",
+    "source/content/2-World/People/Lysandra Kallos.md",
+    "source/content/2-World/Hubs/City of Trade.md",
+    "source/content/2-World/Hubs/Westruun.md",
+    "source/content/2-World/Regions",
+    "source/content/2-World/Places",
+    "source/content/2-World/People",
+    "source/content/2-World/Hubs",
+    "source/content/2-World"
   ]
 }

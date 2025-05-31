@@ -1,5 +1,5 @@
 ---
-MyContainer: "[[2-World/Places/Shop of Sales.md|Shop of Sales]]"
+MyContainer: "[[Shop of Sales|Shop of Sales]]"
 MyCategory: 
 tags:
   - Category/People
