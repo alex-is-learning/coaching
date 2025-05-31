@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "source/content/2-World/Hubs/City of Trade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "City of Trade"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "source/content/2-World/Hubs/City of Trade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for City of Trade"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "source/content/2-World/Hubs/City of Trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from City of Trade"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "source/content/2-World/Hubs/City of Trade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of City of Trade"
             }
           }
         ]
@@ -171,22 +171,51 @@
   },
   "active": "be641e48d9e50b5a",
   "lastOpenFiles": [
-    "source/content/2-World/Regions/Wildemount.md",
-    "source/content/2-World/Regions/Tal'Dorie.md",
-    "source/content/2-World/Regions/Shattered Teeth.md",
-    "source/content/2-World/Regions/Marquet.md",
-    "source/content/2-World/Regions/Exandria.md",
-    "source/content/2-World/Regions/Issylra.md",
-    "source/content/2-World/Places/Session notes.md",
-    "source/content/2-World/Places/Shop of Sales.md",
-    "source/content/2-World/People/Shop Guy.md",
-    "source/content/2-World/People/Lysandra Kallos.md",
-    "source/content/2-World/Hubs/City of Trade.md",
-    "source/content/2-World/Hubs/Westruun.md",
-    "source/content/2-World/Regions",
-    "source/content/2-World/Places",
-    "source/content/2-World/People",
-    "source/content/2-World/Hubs",
-    "source/content/2-World"
+    "source/content/3-Mechanics/Bestiary/Custom Homebrew Monster.md",
+    "source/content/3-Mechanics/Bestiary",
+    "source/content/3-Mechanics/CLI/CLI.md",
+    "source/content/3-Mechanics/CLI",
+    "source/content/3-Mechanics/Where To Get Mechanics.md",
+    "source/content/z_Assets/Pasted Image 20240630230819_217.png",
+    "source/content/z_Assets/Pasted image 20240630203442.png",
+    "source/content/z_Assets/Pasted image 20240630204305.png",
+    "source/content/z_Assets/Pasted image 20240627201658.png",
+    "source/content/z_Assets/Pasted image 20240607151510.png",
+    "source/content/z_Assets/Pasted image 20250112134706.png",
+    "source/content/z_Assets/Pasted image 20240702203106.png",
+    "source/content/z_Assets/Pasted Image 20240630213938_233.png",
+    "source/content/z_Assets/Pasted image 20240630204049.png",
+    "source/content/z_Assets/Pasted image 20240630203450.png",
+    "source/content/z_Assets/main.js",
+    "source/content/z_Assets/Decks/Business Card Dungeon/config.md",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Business Card Dungeons License.md",
+    "source/content/z_Assets/Decks/Business Card Dungeon",
+    "source/content/z_Assets/Decks",
+    "source/content/z_Assets/banners",
+    "source/content/z_Assets/Placeholder Images/zz_asset-files.md",
+    "source/content/z_Assets/Placeholder Images/MapPlaceholder.md",
+    "source/content/z_Assets/Placeholder Images",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d6.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d4.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d20.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d12.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d100.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d10.md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters Table (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters (Initiative Tracker) 1.md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "source/content/z_Templates/4_Markdown/April's Timeline/Timeline - Render Timeline.md",
+    "source/content/z_Templates/4_Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
+    "source/content/z_Templates/4_Markdown/Insert Rollable Table",
+    "source/content/z_Templates/4_Markdown/Combat Templates",
+    "source/content/z_Templates/4_Markdown/April's Timeline"
   ]
 }
