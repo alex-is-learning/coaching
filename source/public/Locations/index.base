@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.tags.contains("location")
+formulas:
+  Location Type: file.tags.filter(value != "#location").toString().replace(/^#/, '').title()
+properties:
+  file.name:
+    displayName: Location
+  note.rulers:
+    displayName: Ruled By
+views:
+  - type: cards
+    name: All Locations
+    order:
+      - file.name
+      - region
+    columnSize:
+      file.name: 133
+  - type: cards
+    name: Svilland
+    filters:
+      and:
+        - region == link("Svilland")
+    order:
+      - file.name
+      - leaders
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize: {}
+    imageFit: ""
+    imageAspectRatio: 1
+    cardSize: 340
+  - type: cards
+    name: Green Lights of the East
+    filters:
+      and:
+        - region == link("Green Lights of the East")
+    order:
+      - file.name
+      - formula.Location Type
+    sort: []
+    columnSize:
+      file.name: 121
+  - type: cards
+    name: Alsvartr
+    filters:
+      and:
+        - region == link("Alsvartr")
+    order:
+      - file.name
+      - formula.Location Type
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 340

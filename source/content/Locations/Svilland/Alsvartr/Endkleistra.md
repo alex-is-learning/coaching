@@ -3,7 +3,7 @@ tags:
   - location
   - capital
 aliases:
-region: "[[Alsvartr]]"
+region: "[[Locations/Svilland/Alsvartr/index]]"
 leaders: "[[Venin]]"
 image:
 ---

@@ -1,7 +1,6 @@
-<% await tp.file.include(tp.file.find_tfile("TemplateBase")) %>
 ---
 tags:
-  - <%* tR += tp.config.template_file.basename.toLowerCase().replace(' ', '-') %>
+  - pc
 aliases:
   - Other names they go by
 species: DND species

@@ -3,7 +3,7 @@ tags:
   - location
   - town
 aliases:
-region: "[[Alsvartr]]"
+region: "[[Locations/Svilland/Alsvartr/index]]"
 leaders:
 image:
 ---

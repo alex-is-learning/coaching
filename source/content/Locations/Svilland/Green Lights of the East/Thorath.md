@@ -3,7 +3,7 @@ tags:
   - location
   - city
 aliases:
-region: "[[Green Lights of the East]]"
+region: "[[Locations/Svilland/Green Lights of the East/index]]"
 leaders:
 image:
 ---
