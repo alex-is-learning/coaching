@@ -1,7 +1,2 @@
----
-title: My GitHub Pages Notebook!
----
-
-Hello world!
-
-Write some words here!
+# Journey Wreathed in Ash
+Our campaign notes!

@@ -1,0 +1,16 @@
+---
+tags:
+  - deceased
+  - npc
+image: "[[Yrsa.png]]"
+aliases:
+species: Human
+current-location: N/A
+party-status: N/A
+---
+- Lived in [[Kroksholt]]
+- Human woman around mid-70s
+- Guardian of [[Helwyn]]
+- Firm but fair, respected in the community and knows what she does is important. Didn't really care what Helwyn looked like, just cared who she was inside. Teaching Helwyn control of her emotions and focusing her energy in learning her craft, Helwyn grew really close to Yrsa, seeing her as the closest thing to family that she'd ever had
+- Instilled in Helwyn a healthy respect for any god associated with death
+- Wrote letters to [[Queen Bergljot]], including things about Helwyn
