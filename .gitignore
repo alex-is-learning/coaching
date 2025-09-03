@@ -1,5 +1,7 @@
+# Quartz
 .trash/*
 source/public/
+source/quartz/.quartz-cache/
 
 # Logs
 logs
