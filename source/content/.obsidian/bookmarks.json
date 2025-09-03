@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1756861069150,
+      "title": "Campaign So Far",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:\"_templates\" -file:.base  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag: #item",
+            "color": {
+              "a": 1,
+              "rgb": 9701873
+            }
+          },
+          {
+            "query": "tag: #location  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431473
+            }
+          },
+          {
+            "query": "tag: #pc",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag: #session  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "tag: #npc",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "tag: religion",
+            "color": {
+              "a": 1,
+              "rgb": 5404128
+            }
+          },
+          {
+            "query": "tag: #faction",
+            "color": {
+              "a": 1,
+              "rgb": 14701276
+            }
+          },
+          {
+            "query": "tag: #god",
+            "color": {
+              "a": 1,
+              "rgb": 3155158
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -0.1,
+        "nodeSizeMultiplier": 1.80989583333333,
+        "lineSizeMultiplier": 1.89921875,
+        "collapse-forces": true,
+        "centerStrength": 0.598958333333333,
+        "repelStrength": 11.9270833333333,
+        "linkStrength": 0.0833333333333333,
+        "linkDistance": 351,
+        "scale": 0.6030801873874437,
+        "close": false
+      }
+    }
+  ]
+}

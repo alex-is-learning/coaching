@@ -1,0 +1,446 @@
+{
+  "workspaces": {
+    "DND Session": {
+      "main": {
+        "id": "3cf3bef941ab5651",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ef84274d53d2fb2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c61c9b6ee9ec2d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Hub.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session Hub"
+                }
+              },
+              {
+                "id": "423ab73e1caf824d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-dnd-beyond",
+                  "state": {},
+                  "icon": "lucide-swords",
+                  "title": "DND Beyond"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "28f2545d9b440797",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f9aa369e024ac46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "793dd403c418ea3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "4589551f8d7174ac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "cc9fdfec32232252",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "98d3706fdea794b0",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f8975f30a70c5b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "323bfc6681bb2ef0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Session Hub.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Hub"
+                }
+              },
+              {
+                "id": "1e8cf77dfcbf82e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Journey Wreathed in Ash/Hub.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Hub"
+                }
+              },
+              {
+                "id": "52d417da255839a2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "e317f27e268dfcc0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Hub.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Hub"
+                }
+              },
+              {
+                "id": "8de4317f6f47173c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f10a24af0a75f03e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Hub.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Hub"
+                }
+              },
+              {
+                "id": "d97ee0cb52fcc105",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {},
+                  "icon": "broken-link",
+                  "title": "Dangling links"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 579.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": true,
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": false,
+          "obsidian-importer:Open Importer": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "markdown-importer:Open format converter": true
+        }
+      },
+      "active": "423ab73e1caf824d",
+      "mtime": "2025-09-02T17:50:33+12:00"
+    },
+    "Default": {
+      "main": {
+        "id": "3cf3bef941ab5651",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ef84274d53d2fb2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c61c9b6ee9ec2d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Hub.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session Hub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "28f2545d9b440797",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f9aa369e024ac46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "793dd403c418ea3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "4589551f8d7174ac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "cc9fdfec32232252",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "98d3706fdea794b0",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f8975f30a70c5b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "323bfc6681bb2ef0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Session Hub.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Session Hub"
+                }
+              },
+              {
+                "id": "1e8cf77dfcbf82e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Journey Wreathed in Ash/Hub.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Hub"
+                }
+              },
+              {
+                "id": "52d417da255839a2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "e317f27e268dfcc0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Hub.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Hub"
+                }
+              },
+              {
+                "id": "8de4317f6f47173c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f10a24af0a75f03e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Hub.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Hub"
+                }
+              },
+              {
+                "id": "d97ee0cb52fcc105",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {},
+                  "icon": "broken-link",
+                  "title": "Dangling links"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 319.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": true,
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": false,
+          "obsidian-importer:Open Importer": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "markdown-importer:Open format converter": true
+        }
+      },
+      "active": "323bfc6681bb2ef0",
+      "mtime": "2025-09-02T17:51:01+12:00"
+    }
+  },
+  "active": "DND Session"
+}

@@ -1,1 +1,8 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./_resources",
+  "userIgnoreFilters": [
+    "/*/_resources/*"
+  ],
+  "newFileLocation": "current"
+}

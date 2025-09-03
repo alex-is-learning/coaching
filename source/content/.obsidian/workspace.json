@@ -1,170 +1,264 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "3cf3bef941ab5651",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "9ddd4b0e1ef9c09b",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "69b0a95ff504bb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Player Characters/Helwyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Helwyn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "28f2545d9b440797",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "8f9aa369e024ac46",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "793dd403c418ea3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "4589551f8d7174ac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "cc9fdfec32232252",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "98d3706fdea794b0",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "6f8975f30a70c5b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "323bfc6681bb2ef0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Session Hub.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Hub"
+            }
+          },
+          {
+            "id": "1e8cf77dfcbf82e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journey Wreathed in Ash/Hub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hub"
+            }
+          },
+          {
+            "id": "52d417da255839a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e317f27e268dfcc0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hub"
             }
           },
           {
-            "id": "5acb7020384970a8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f850ba7e9e699bea",
+            "id": "8de4317f6f47173c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "f10a24af0a75f03e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hub"
+            }
+          },
+          {
+            "id": "d97ee0cb52fcc105",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "dangling-links"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 579.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": true,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "69b0a95ff504bb85",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Player Characters/Player Characters.base",
+    "Player Characters/Appearance and Traits.md",
+    "Player Characters/Helwyn.md",
+    "Lore/Glasya's Deal.md",
+    "Player Characters/Helwyn/Helwyn.md",
+    "Player Characters/Helwyn/RP Ideas.md",
+    "Lore",
+    "Player Characters/Helwyn/Physician Enhanced Background.md",
+    "Player Characters/Helwyn/Letter to Yrsa.md",
+    "Player Characters/Helwyn/DM Questions.md",
+    "Player Characters/Helwyn/Campaign Log.md",
+    "Player Characters/Helwyn/Appearance and Traits.md",
+    "Player Characters/Helwyn/Backstory.md",
+    "Sessions/Session 07.md",
+    "Sessions/Session 08.md",
+    "_templates/Faction.md",
+    "Player Characters/Joy.md",
+    "Religion/Religion.md",
+    "NPCs/NPCs.base",
+    "Sessions/Sessions.base",
+    "Session Hub.md",
+    "Party Inventory/Treasure Rat.md",
+    "Party Inventory/Shtriga Nonna's Pot of Plenty.md",
+    "Party Inventory/Oil of Slipperiness.md",
+    "Party Inventory/Helwyn's Chop Shop.md",
+    "Party Inventory/Demon's Heart.md",
+    "Party Inventory/Cult List.md",
+    "Party Inventory/Book of Nine Dooms.md",
+    "Factions/Untitled.md",
+    "_scripts/helpers.js",
+    "Locations/Locations.base",
+    "_scripts",
+    "output",
+    "Journey Wreathed in Ash/NPCs 1/_resources/default.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Katherine.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Ludmilla.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Cinderhide.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Yrsa.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Ulsedra Vox.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Flortes.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Chief Luptir.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Glasya.png",
+    "Journey Wreathed in Ash/NPCs 1/_resources/Usi-Ziyad.png",
+    "Journey Wreathed in Ash/NPCs 1/NPCs.base",
+    "Journey Wreathed in Ash/NPCs 1/_resources",
+    "Untitled.canvas"
   ]
 }

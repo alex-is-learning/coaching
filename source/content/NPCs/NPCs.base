@@ -1,0 +1,42 @@
+filters:
+  and:
+    - '!file.folder.contains("_")'
+    - file.path.contains("NPCs")
+    - file.ext == "md"
+formulas:
+  Relationship to Party: " file.tags.toString()"
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: cards
+    name: All NPCs
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.tags: 395
+    image: note.image
+    imageFit: contain
+    cardSize: 170
+  - type: table
+    name: Gods
+    filters:
+      and:
+        - file.inFolder("Journey Wreathed in Ash/Religion")
+    order:
+      - file.name
+  - type: cards
+    name: Allies
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.tags: 395
+    image: note.image
+    imageFit: contain
+    cardSize: 110

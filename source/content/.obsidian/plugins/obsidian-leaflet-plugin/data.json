@@ -1,0 +1,1568 @@
+{
+  "mapMarkers": [
+    {
+      "id": "svilland-map",
+      "locked": true,
+      "lastAccessed": 1756724222158,
+      "markers": [
+        {
+          "id": "ID_093bc86a88da",
+          "type": "City",
+          "loc": [
+            170,
+            463.5
+          ],
+          "link": "Kroksholt",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            154.5,
+            -73.51351351351352
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbbb588a6b1a",
+          "type": "City",
+          "loc": [
+            127.54296875,
+            456.0625
+          ],
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8d8c96ad928",
+          "type": "City",
+          "loc": [
+            127.5,
+            456.5
+          ],
+          "link": "Thorath",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            152.16666666666666,
+            -55.13513513513514
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bbaaa78495b",
+          "type": "City",
+          "loc": [
+            124,
+            229
+          ],
+          "link": "Endkleistra",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            76.33333333333333,
+            -53.62162162162162
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c959997a194b",
+          "type": "City",
+          "loc": [
+            331.5,
+            268.25
+          ],
+          "link": "Kolbovaik",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            89.41666666666667,
+            -143.35135135135135
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_584a28fa79cb",
+          "type": "City",
+          "loc": [
+            200.5,
+            379.75
+          ],
+          "link": "Katzar",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b3a1a98ab79",
+          "type": "City",
+          "loc": [
+            225,
+            396.75
+          ],
+          "link": "Bram",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58192b79e808",
+          "type": "City",
+          "loc": [
+            372.75,
+            55.5
+          ],
+          "link": "Gurbulruhm",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            18.5,
+            -161.1891891891892
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e96b0b49eaa8",
+          "type": "City",
+          "loc": [
+            245.75,
+            143
+          ],
+          "link": "Hvannsavik",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            47.666666666666664,
+            -106.27027027027027
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8eaaa7bc8da",
+          "type": "City",
+          "loc": [
+            354.5,
+            250
+          ],
+          "link": "Berzog'Ul",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            83.33333333333333,
+            -153.2972972972973
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_091a0b092a79",
+          "type": "City",
+          "loc": [
+            256.6484375,
+            360.8125
+          ],
+          "link": "Riverstorm",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e88b58cabb99",
+          "type": "City",
+          "loc": [
+            254,
+            380.5
+          ],
+          "link": "Katzil",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            126.83333333333333,
+            -109.83783783783784
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb48a8b8994a",
+          "type": "City",
+          "loc": [
+            241.1484375,
+            340.5625
+          ],
+          "link": "Beruvik",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08891a988b49",
+          "type": "City",
+          "loc": [
+            213.25,
+            62.5
+          ],
+          "link": "Nyrstadir",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            20.833333333333332,
+            -92.21621621621621
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_795b9a288a7b",
+          "type": "City",
+          "loc": [
+            58.25,
+            135.125
+          ],
+          "link": "Maerin",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            45.041666666666664,
+            -25.18918918918919
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b968fb4b197b",
+          "type": "Village",
+          "loc": [
+            75,
+            380
+          ],
+          "link": "Tower Village",
+          "layer": "%5B%5BSvilland%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            126.66666666666667,
+            -32.432432432432435
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3c973b",
+          "vertices": [
+            {
+              "lat": 63.59375,
+              "lng": 528.25,
+              "id": "ID_e94b0a193ae8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 31.5,
+              "lng": 525.5,
+              "id": "ID_ab1be8a8398b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 10.59375,
+              "lng": 508.25,
+              "id": "ID_2878480a5938",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 9.5,
+              "lng": 486,
+              "id": "ID_3ad96b29c829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 19,
+              "lng": 470,
+              "id": "ID_9bab1b6bfa7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 16.5,
+              "lng": 444,
+              "id": "ID_0ae8984b3aca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 54.5,
+              "lng": 435,
+              "id": "ID_6ae9bb0be898",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 44.5,
+              "lng": 420,
+              "id": "ID_0be8281b0b9b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 39,
+              "lng": 393,
+              "id": "ID_c8c87acbbbca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 56,
+              "lng": 374.5,
+              "id": "ID_4b4beb2999b9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 92,
+              "lng": 370.5,
+              "id": "ID_1909e8a9cab8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 102.5,
+              "lng": 403.5,
+              "id": "ID_59eb7af95a09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 115,
+              "lng": 404.5,
+              "id": "ID_cb0ae96acb9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 126.5,
+              "lng": 411.5,
+              "id": "ID_5919d8789bb8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 126.5,
+              "lng": 407.5,
+              "id": "ID_b87b2809cbc9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 104.5,
+              "lng": 394,
+              "id": "ID_a8480ab9cb59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 111.5,
+              "lng": 377,
+              "id": "ID_3ac949cba83b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 138.5,
+              "lng": 389.5,
+              "id": "ID_ca59d80a9b88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 153.59375,
+              "lng": 381.25,
+              "id": "ID_8beb2a4b6afa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 174.59375,
+              "lng": 381.25,
+              "id": "ID_5b382bd89a08",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 184.59375,
+              "lng": 374.25,
+              "id": "ID_3b2a38ca791b",
+              "targets": {
+                "vertexIds": [
+                  "ID_4b4ada1bf9ab"
+                ]
+              }
+            },
+            {
+              "lat": 200.25,
+              "lng": 374.5,
+              "id": "ID_49ab2a69a8c8",
+              "targets": {
+                "vertexIds": [
+                  "ID_0a79fb0bd8ab"
+                ]
+              }
+            },
+            {
+              "lat": 215.25,
+              "lng": 374.25,
+              "id": "ID_386a29aa88ea",
+              "targets": {
+                "vertexIds": [
+                  "ID_dbdae9aafa0a"
+                ]
+              }
+            },
+            {
+              "lat": 221.5,
+              "lng": 377,
+              "id": "ID_4968da09397a",
+              "targets": {
+                "vertexIds": [
+                  "ID_1a4a58382b9b"
+                ]
+              }
+            },
+            {
+              "lat": 247.1484375,
+              "lng": 371.8125,
+              "id": "ID_89ca08b8492b",
+              "targets": {
+                "vertexIds": [
+                  "ID_d9785b9908cb"
+                ]
+              }
+            },
+            {
+              "lat": 257.796875,
+              "lng": 369.625,
+              "id": "ID_b99a7a986848",
+              "targets": {
+                "vertexIds": [
+                  "ID_8b196ba8d878"
+                ]
+              }
+            },
+            {
+              "lat": 270.796875,
+              "lng": 374.125,
+              "id": "ID_08697a4b79fb",
+              "targets": {
+                "vertexIds": [
+                  "ID_69c93a0bf97b"
+                ]
+              }
+            },
+            {
+              "lat": 290.25,
+              "lng": 384.25,
+              "id": "ID_6b7aeb088bb9",
+              "targets": {
+                "vertexIds": [
+                  "ID_1b9b38985819"
+                ]
+              }
+            },
+            {
+              "lat": 315,
+              "lng": 384.25,
+              "id": "ID_d9eb8ba87b0a",
+              "targets": {
+                "vertexIds": [
+                  "ID_5908d8fb19bb"
+                ]
+              }
+            },
+            {
+              "lat": 322,
+              "lng": 389.75,
+              "id": "ID_0aaba83bab8b",
+              "targets": {
+                "vertexIds": [
+                  "ID_5be899095a6a"
+                ]
+              }
+            },
+            {
+              "lat": 329.25,
+              "lng": 390,
+              "id": "ID_c8fac9bafbf9",
+              "targets": {
+                "vertexIds": [
+                  "ID_fbcaba88482a"
+                ]
+              }
+            },
+            {
+              "lat": 330.75,
+              "lng": 383,
+              "id": "ID_fa894a5babda",
+              "targets": {
+                "vertexIds": [
+                  "ID_0b1babfbe8e8"
+                ]
+              }
+            },
+            {
+              "lat": 347.296875,
+              "lng": 373.625,
+              "id": "ID_984aeb4948ba",
+              "targets": {
+                "vertexIds": [
+                  "ID_6beb190a5a18"
+                ]
+              }
+            },
+            {
+              "lat": 370.296875,
+              "lng": 377.125,
+              "id": "ID_0b2a599abbaa",
+              "targets": {
+                "vertexIds": [
+                  "ID_2b79baebcb8a"
+                ]
+              }
+            },
+            {
+              "lat": 384.296875,
+              "lng": 381.125,
+              "id": "ID_4a99797a8b7b",
+              "targets": {
+                "vertexIds": [
+                  "ID_68aafa49585a"
+                ]
+              }
+            },
+            {
+              "lat": 406.296875,
+              "lng": 381.125,
+              "id": "ID_7a7bbbb8bbaa",
+              "targets": {
+                "vertexIds": [
+                  "ID_4bbbb9f92aaa"
+                ]
+              }
+            },
+            {
+              "lat": 406.296875,
+              "lng": 527.125,
+              "id": "ID_cabb3a8a4beb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#8e2f2f",
+          "vertices": [
+            {
+              "lat": 157.296875,
+              "lng": 367.125,
+              "id": "ID_0be9fa19e84b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 157.296875,
+              "lng": 367.125,
+              "id": "ID_6b8a48e9c8d9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 78.296875,
+              "lng": 346.125,
+              "id": "ID_79992bbb68ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 53.296875,
+              "lng": 326.625,
+              "id": "ID_58d8cbf9e93a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 38.296875,
+              "lng": 255.125,
+              "id": "ID_792b0b4a5978",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 55.296875,
+              "lng": 202.625,
+              "id": "ID_48a87b998b49",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 118.296875,
+              "lng": 185.125,
+              "id": "ID_08da59586a6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 145.296875,
+              "lng": 179.125,
+              "id": "ID_ebdbaa7b29d9",
+              "targets": {
+                "vertexIds": [
+                  "ID_59488a49fa0a"
+                ]
+              }
+            },
+            {
+              "lat": 168.796875,
+              "lng": 195.125,
+              "id": "ID_6a4be9ca5a1a",
+              "targets": {
+                "vertexIds": [
+                  "ID_c88a38b9f9cb"
+                ]
+              }
+            },
+            {
+              "lat": 171.296875,
+              "lng": 201.625,
+              "id": "ID_7958599a89da",
+              "targets": {
+                "vertexIds": [
+                  "ID_48c86a09db18"
+                ]
+              }
+            },
+            {
+              "lat": 179.796875,
+              "lng": 195.125,
+              "id": "ID_dbbb8a685938",
+              "targets": {
+                "vertexIds": [
+                  "ID_bb8b38b9ea28"
+                ]
+              }
+            },
+            {
+              "lat": 192.796875,
+              "lng": 198.125,
+              "id": "ID_0a19f97b6958",
+              "targets": {
+                "vertexIds": [
+                  "ID_797adb2b4b98"
+                ]
+              }
+            },
+            {
+              "lat": 197.796875,
+              "lng": 192.625,
+              "id": "ID_a9db49a9a9ab",
+              "targets": {
+                "vertexIds": [
+                  "ID_9bd938283b8a"
+                ]
+              }
+            },
+            {
+              "lat": 198.296875,
+              "lng": 180.625,
+              "id": "ID_490b9b68c909",
+              "targets": {
+                "vertexIds": [
+                  "ID_ebdafb6ae989"
+                ]
+              }
+            },
+            {
+              "lat": 215.296875,
+              "lng": 178.625,
+              "id": "ID_7a5a5919b828",
+              "targets": {
+                "vertexIds": [
+                  "ID_2aca7b3b8b69"
+                ]
+              }
+            },
+            {
+              "lat": 253.5,
+              "lng": 183,
+              "id": "ID_983a283b5b58",
+              "targets": {
+                "vertexIds": [
+                  "ID_59e9491b8a39"
+                ]
+              }
+            },
+            {
+              "lat": 272.296875,
+              "lng": 190.625,
+              "id": "ID_ab2ac8588b9b",
+              "targets": {
+                "vertexIds": [
+                  "ID_fb8b8b9b1a1a"
+                ]
+              }
+            },
+            {
+              "lat": 288.796875,
+              "lng": 195.125,
+              "id": "ID_59e88b2879ca",
+              "targets": {
+                "vertexIds": [
+                  "ID_4bba79fa0b6b"
+                ]
+              }
+            },
+            {
+              "lat": 302.296875,
+              "lng": 199.625,
+              "id": "ID_ea495bb92879",
+              "targets": {
+                "vertexIds": [
+                  "ID_ca683bcbeaea"
+                ]
+              }
+            },
+            {
+              "lat": 316.296875,
+              "lng": 202.625,
+              "id": "ID_cb1bfbea49eb",
+              "targets": {
+                "vertexIds": [
+                  "ID_4819daa85b3b"
+                ]
+              }
+            },
+            {
+              "lat": 335.796875,
+              "lng": 202.625,
+              "id": "ID_883a8849581a",
+              "targets": {
+                "vertexIds": [
+                  "ID_69fac9583978"
+                ]
+              }
+            },
+            {
+              "lat": 348.296875,
+              "lng": 204.125,
+              "id": "ID_688a5bdbda8a",
+              "targets": {
+                "vertexIds": [
+                  "ID_fbc8ba1bfbfa"
+                ]
+              }
+            },
+            {
+              "lat": 373.296875,
+              "lng": 210.125,
+              "id": "ID_a9fbdadb9928",
+              "targets": {
+                "vertexIds": [
+                  "ID_c80aca2ab99a"
+                ]
+              }
+            },
+            {
+              "lat": 389.796875,
+              "lng": 215.625,
+              "id": "ID_38791a4b49a8",
+              "targets": {
+                "vertexIds": [
+                  "ID_c9d879daba9b"
+                ]
+              }
+            },
+            {
+              "lat": 405.796875,
+              "lng": 216.625,
+              "id": "ID_ba59398b4889",
+              "targets": {
+                "vertexIds": [
+                  "ID_3b284a5b5bbb"
+                ]
+              }
+            },
+            {
+              "lat": 406.296875,
+              "lng": 381.125,
+              "id": "ID_4bbbb9f92aaa",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a7bbbb8bbaa"
+                ]
+              }
+            },
+            {
+              "lat": 384.296875,
+              "lng": 381.125,
+              "id": "ID_68aafa49585a",
+              "targets": {
+                "vertexIds": [
+                  "ID_4a99797a8b7b"
+                ]
+              }
+            },
+            {
+              "lat": 370.296875,
+              "lng": 377.125,
+              "id": "ID_2b79baebcb8a",
+              "targets": {
+                "vertexIds": [
+                  "ID_0b2a599abbaa"
+                ]
+              }
+            },
+            {
+              "lat": 347.296875,
+              "lng": 373.625,
+              "id": "ID_6beb190a5a18",
+              "targets": {
+                "vertexIds": [
+                  "ID_984aeb4948ba"
+                ]
+              }
+            },
+            {
+              "lat": 330.75,
+              "lng": 383,
+              "id": "ID_0b1babfbe8e8",
+              "targets": {
+                "vertexIds": [
+                  "ID_fa894a5babda"
+                ]
+              }
+            },
+            {
+              "lat": 329.25,
+              "lng": 390,
+              "id": "ID_fbcaba88482a",
+              "targets": {
+                "vertexIds": [
+                  "ID_c8fac9bafbf9"
+                ]
+              }
+            },
+            {
+              "lat": 322,
+              "lng": 389.75,
+              "id": "ID_5be899095a6a",
+              "targets": {
+                "vertexIds": [
+                  "ID_0aaba83bab8b"
+                ]
+              }
+            },
+            {
+              "lat": 315,
+              "lng": 384.25,
+              "id": "ID_5908d8fb19bb",
+              "targets": {
+                "vertexIds": [
+                  "ID_d9eb8ba87b0a"
+                ]
+              }
+            },
+            {
+              "lat": 290.25,
+              "lng": 384.25,
+              "id": "ID_1b9b38985819",
+              "targets": {
+                "vertexIds": [
+                  "ID_6b7aeb088bb9"
+                ]
+              }
+            },
+            {
+              "lat": 270.796875,
+              "lng": 374.125,
+              "id": "ID_69c93a0bf97b",
+              "targets": {
+                "vertexIds": [
+                  "ID_08697a4b79fb"
+                ]
+              }
+            },
+            {
+              "lat": 257.796875,
+              "lng": 369.625,
+              "id": "ID_8b196ba8d878",
+              "targets": {
+                "vertexIds": [
+                  "ID_b99a7a986848"
+                ]
+              }
+            },
+            {
+              "lat": 247.1484375,
+              "lng": 371.8125,
+              "id": "ID_d9785b9908cb",
+              "targets": {
+                "vertexIds": [
+                  "ID_89ca08b8492b"
+                ]
+              }
+            },
+            {
+              "lat": 221.5,
+              "lng": 377,
+              "id": "ID_1a4a58382b9b",
+              "targets": {
+                "vertexIds": [
+                  "ID_4968da09397a"
+                ]
+              }
+            },
+            {
+              "lat": 215.25,
+              "lng": 374.25,
+              "id": "ID_dbdae9aafa0a",
+              "targets": {
+                "vertexIds": [
+                  "ID_386a29aa88ea"
+                ]
+              }
+            },
+            {
+              "lat": 200.25,
+              "lng": 374.5,
+              "id": "ID_0a79fb0bd8ab",
+              "targets": {
+                "vertexIds": [
+                  "ID_49ab2a69a8c8"
+                ]
+              }
+            },
+            {
+              "lat": 184.59375,
+              "lng": 374.25,
+              "id": "ID_4b4ada1bf9ab",
+              "targets": {
+                "vertexIds": [
+                  "ID_3b2a38ca791b"
+                ]
+              }
+            },
+            {
+              "lat": 157.296875,
+              "lng": 367.125,
+              "id": "ID_a929ca88fa9b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#3b5697",
+          "vertices": [
+            {
+              "lat": 145.296875,
+              "lng": 179.125,
+              "id": "ID_59488a49fa0a",
+              "targets": {
+                "vertexIds": [
+                  "ID_ebdbaa7b29d9"
+                ]
+              }
+            },
+            {
+              "lat": 112.796875,
+              "lng": 142.125,
+              "id": "ID_6be858d8484b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 88.296875,
+              "lng": 162.125,
+              "id": "ID_7b9b7aabf92a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 52.796875,
+              "lng": 167.125,
+              "id": "ID_d8a92a6808a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 33.796875,
+              "lng": 116.625,
+              "id": "ID_4b4a4a39f9b8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 36.796875,
+              "lng": 58.125,
+              "id": "ID_09a8e89a681b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 70.296875,
+              "lng": 33.125,
+              "id": "ID_8b6b6a0828e8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 114.796875,
+              "lng": 20.125,
+              "id": "ID_ca68d96a9aaa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 143.796875,
+              "lng": 34.125,
+              "id": "ID_1b286a19eb8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 151.296875,
+              "lng": 10.125,
+              "id": "ID_f8e9e88a3a7b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 170.796875,
+              "lng": 18.125,
+              "id": "ID_3b493a9bbb09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 195.296875,
+              "lng": 55.625,
+              "id": "ID_fbfa29d97a8b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 214.796875,
+              "lng": 43.125,
+              "id": "ID_0a8a09c8e95b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 246.796875,
+              "lng": 53.125,
+              "id": "ID_59eb897a8858",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 268.796875,
+              "lng": 63.625,
+              "id": "ID_d859ab5918ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 292.296875,
+              "lng": 45.625,
+              "id": "ID_5a9a4af80b3b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 309.296875,
+              "lng": 27.625,
+              "id": "ID_48a8b889b958",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 341.296875,
+              "lng": 23.625,
+              "id": "ID_289a2adbe948",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 370.296875,
+              "lng": 38.625,
+              "id": "ID_888a0adbc8cb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 404.296875,
+              "lng": 43.625,
+              "id": "ID_1bab896bea3a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 406.796875,
+              "lng": 50.625,
+              "id": "ID_d9bada79da6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 405.796875,
+              "lng": 216.625,
+              "id": "ID_3b284a5b5bbb",
+              "targets": {
+                "vertexIds": [
+                  "ID_ba59398b4889"
+                ]
+              }
+            },
+            {
+              "lat": 389.796875,
+              "lng": 215.625,
+              "id": "ID_c9d879daba9b",
+              "targets": {
+                "vertexIds": [
+                  "ID_38791a4b49a8"
+                ]
+              }
+            },
+            {
+              "lat": 373.296875,
+              "lng": 210.125,
+              "id": "ID_c80aca2ab99a",
+              "targets": {
+                "vertexIds": [
+                  "ID_a9fbdadb9928"
+                ]
+              }
+            },
+            {
+              "lat": 348.296875,
+              "lng": 204.125,
+              "id": "ID_fbc8ba1bfbfa",
+              "targets": {
+                "vertexIds": [
+                  "ID_688a5bdbda8a"
+                ]
+              }
+            },
+            {
+              "lat": 335.796875,
+              "lng": 202.625,
+              "id": "ID_69fac9583978",
+              "targets": {
+                "vertexIds": [
+                  "ID_883a8849581a"
+                ]
+              }
+            },
+            {
+              "lat": 316.296875,
+              "lng": 202.625,
+              "id": "ID_4819daa85b3b",
+              "targets": {
+                "vertexIds": [
+                  "ID_cb1bfbea49eb"
+                ]
+              }
+            },
+            {
+              "lat": 302.296875,
+              "lng": 199.625,
+              "id": "ID_ca683bcbeaea",
+              "targets": {
+                "vertexIds": [
+                  "ID_ea495bb92879"
+                ]
+              }
+            },
+            {
+              "lat": 288.796875,
+              "lng": 195.125,
+              "id": "ID_4bba79fa0b6b",
+              "targets": {
+                "vertexIds": [
+                  "ID_59e88b2879ca"
+                ]
+              }
+            },
+            {
+              "lat": 272.296875,
+              "lng": 190.625,
+              "id": "ID_fb8b8b9b1a1a",
+              "targets": {
+                "vertexIds": [
+                  "ID_ab2ac8588b9b"
+                ]
+              }
+            },
+            {
+              "lat": 253.5,
+              "lng": 183,
+              "id": "ID_59e9491b8a39",
+              "targets": {
+                "vertexIds": [
+                  "ID_983a283b5b58"
+                ]
+              }
+            },
+            {
+              "lat": 215.296875,
+              "lng": 178.625,
+              "id": "ID_2aca7b3b8b69",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a5a5919b828"
+                ]
+              }
+            },
+            {
+              "lat": 198.296875,
+              "lng": 180.625,
+              "id": "ID_ebdafb6ae989",
+              "targets": {
+                "vertexIds": [
+                  "ID_490b9b68c909"
+                ]
+              }
+            },
+            {
+              "lat": 197.796875,
+              "lng": 192.625,
+              "id": "ID_9bd938283b8a",
+              "targets": {
+                "vertexIds": [
+                  "ID_a9db49a9a9ab"
+                ]
+              }
+            },
+            {
+              "lat": 192.796875,
+              "lng": 198.125,
+              "id": "ID_797adb2b4b98",
+              "targets": {
+                "vertexIds": [
+                  "ID_0a19f97b6958"
+                ]
+              }
+            },
+            {
+              "lat": 179.796875,
+              "lng": 195.125,
+              "id": "ID_bb8b38b9ea28",
+              "targets": {
+                "vertexIds": [
+                  "ID_dbbb8a685938"
+                ]
+              }
+            },
+            {
+              "lat": 171.296875,
+              "lng": 201.625,
+              "id": "ID_48c86a09db18",
+              "targets": {
+                "vertexIds": [
+                  "ID_7958599a89da"
+                ]
+              }
+            },
+            {
+              "lat": 168.796875,
+              "lng": 195.125,
+              "id": "ID_c88a38b9f9cb",
+              "targets": {
+                "vertexIds": [
+                  "ID_6a4be9ca5a1a"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#632f8e",
+          "vertices": [
+            {
+              "lat": 336.5,
+              "lng": 231.5,
+              "id": "ID_db78384bb8e8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 290.5,
+              "lng": 264,
+              "id": "ID_686a9b38c83b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 365.5,
+              "lng": 339.5,
+              "id": "ID_596a6aa82b3a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 377,
+              "lng": 234,
+              "id": "ID_782b3b4b99a8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Journey Wreathed in Ash/Locations/Svilland/Svilland.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker-alt",
+    "color": "#d3901d",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#4785ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Village",
+      "iconName": "home",
+      "color": "#519a67",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 2,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Svilland Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Svilland Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": -1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.3431372549019608,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "svilland-map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        406.27,
+        527.05
+      ]
+    ],
+    "lat": 203.135,
+    "long": 263.525,
+    "unit": "miles",
+    "draw": true,
+    "filterTag": []
+  },
+  "enableDraw": false,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

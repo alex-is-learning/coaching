@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "session-date": "date",
+    "locations": "multitext",
+    "factions-involved": "multitext",
+    "items-involved": "multitext",
+    "region": "text",
+    "players-missing": "multitext",
+    "image": "text",
+    "party-status": "text",
+    "leaders": "multitext"
+  }
+}

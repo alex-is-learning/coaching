@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.tags.contains("session")
+    - file.folder != "_templates"
+formulas:
+  Session No.: number(file.basename.split(' ')[1])
+  Season Number: number(file.name.split(' ')[1])
+properties:
+  note.session-date:
+    displayName: Session Date
+  formula.Season Number:
+    displayName: Session No.
+  file.name:
+    displayName: Session
+  note.session-name:
+    displayName: Session Name
+views:
+  - type: table
+    name: Sessions
+    order:
+      - file.name
+      - session-date
+      - session-name
+      - locations
+      - players-missing
+      - items-involved
+      - factions-involved
+      - characters
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: locations
+        direction: ASC
+      - property: formula.Season Number
+        direction: DESC
+    columnSize:
+      file.name: 108
+      note.session-name: 217
+      note.factions-involved: 356
