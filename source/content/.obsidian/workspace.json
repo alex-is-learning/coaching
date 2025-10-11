@@ -11,14 +11,10 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Github_Pages.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Github_Pages"
+              "title": "New tab"
             }
           }
         ]
@@ -190,8 +186,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "README.md",
     "Blog/Github_Pages.md",
+    "README.md",
     "Pages to file",
     "Self-Hosting/Raspberry Pi.md",
     "Self-Hosting",
