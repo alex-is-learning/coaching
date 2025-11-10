@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Home Page
 ---
 
-Hello world!
-
-Write some words here!
+- Website by @alexislearning → personal website [here](https://alexislearning.me/scrapbook/) 
