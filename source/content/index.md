@@ -5,8 +5,8 @@ title: Home Page
 - Hi! [@alexislearning](https://x.com/alexislearning) here, how's it going
 - ![[Pasted image 20251112162656.png|200]]
 - So I've been embedded in the "healing" space for ~3 years now
-	- See [So you want to learn about the post-rationalist "healing" space? (2025-11-10)](https://alexislearning.me/scrapbook/3.-Improving-lived-experience/1.-Healing/So-you-want-to-learn-about-the-post-rationalist-%22healing%22-space-(2025-11-10))
-- I want to do more (free!) coaching, as an experiment!
+	- See e.g. [So you want to learn about the post-rationalist "healing" space? (2025-11-10)](https://alexislearning.me/scrapbook/3.-Improving-lived-experience/1.-Healing/So-you-want-to-learn-about-the-post-rationalist-%22healing%22-space-(2025-11-10))
+- I want to do free! coaching, as an experiment!
 - Calendly link [here](https://calendly.com/alexanderklarge/call)
 # Hypothesis - coaching can be simple
 - I think coaching can be really quite simple:

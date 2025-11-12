@@ -1,5 +1,5 @@
 # Client 1
-- *From a voice note from a friend who I did weekly coaching with, starting in Feb 2024*
+- *From a voice note from a friend who I did weekly coaching with
 - “This is so valuable to me, so grateful, fact that you’re like ‘do you wanna do a weekly one’ I’m like yes this is so valuable”
     - ⁠almost like “omg are you sure I’m allowed it, that’s very generous” which ==points to how valuable this is==
     - ⁠because just the container is valuable, if you’re like “I wanna try a specific exercise for 5 mins”, happy to do it!
