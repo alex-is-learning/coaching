@@ -29,6 +29,7 @@ title: Home Page
 - I honestly think that this is the 80/20. Create a container, use some simple moves when necessary
 # Benefits
 - Get unblocked
+- Update limiting beliefs and feelings, e.g. social anxiety
 - Discover new insights and ideas
 - Discover new resources and things to try out
 - Fuck it, let's be more ambitious: huge suffering reductions are possible!
