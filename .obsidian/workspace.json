@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Coaching feedback.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coaching feedback"
+              "title": "index"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "7d07f4cf036750b2",
   "lastOpenFiles": [
+    "source/content/Coaching feedback.md",
     "source/content/index.md",
     "source/quartz.config.ts.sb-12fb2676-cduYuK",
-    "source/content/Coaching feedback.md",
     "source/content/1. Tools/Internal Family Systems.md",
     "source/content/1. Tools/Focusing.md",
     "source/content/Images/Focusing (phone).jpg",
