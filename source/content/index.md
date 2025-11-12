@@ -4,7 +4,7 @@ aliases:
   - Home
 ---
 
-- Hi! [@alexislearning](https://x.com/alexislearning) here, how's it going
+- Hi! Alex here ([twitter](https://x.com/alexislearning), [scrapbook](https://alexislearning.me/scrapbook/), [substack](https://alexislearning.substack.com/)), how's it going
 - ![[Pasted image 20251112162656.png|200]]
 - So I've been embedded in the "healing" space for ~3 years now
 	- See e.g. [So you want to learn about the post-rationalist "healing" space? (2025-11-10)](https://alexislearning.me/scrapbook/3.-Improving-lived-experience/1.-Healing/So-you-want-to-learn-about-the-post-rationalist-%22healing%22-space-(2025-11-10))
