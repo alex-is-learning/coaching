@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "348c5641407e389e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "90503ec925fe0dd2",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d07f4cf036750b2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7d07f4cf036750b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/Coaching feedback.md",
+    "source/content/Images/sasha - trauma.png",
     "source/content/index.md",
+    "source/content/Images/jess - turn towards.png",
+    "source/content/Coaching feedback.md",
     "source/quartz.config.ts.sb-12fb2676-cduYuK",
     "source/content/1. Tools/Internal Family Systems.md",
     "source/content/1. Tools/Focusing.md",

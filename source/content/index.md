@@ -13,7 +13,8 @@ aliases:
 ## Hypothesis - coaching can be simple
 - I think coaching can be really quite simple:
 	1. Create a container
-	2. Use some simple tools
+	2. Face some aspect of experience that you're avoiding
+	3. Use some simple tools if needed
 ### 1. Creating  a container for people to think about things
 - It can be hard to sit down for an hour and make progress on something
 - It is often *much easier* to do this with another person present, for reasons like:
@@ -21,7 +22,10 @@ aliases:
 	- Sounding board
 	- Maintaining focus
 	- Attunement
-### 2. There are simple & powerful tools that can be used
+### 2. Face some aspect of experience that you're avoiding
+- ![[sasha - trauma.png]]
+- ![[jess - turn towards.png]]
+### 3. There are simple & powerful tools that can be used
 - I can blend in techniques like:
 	- Internal Family Systems therapy
 	- Eugene Gendlin's "Focusing"
