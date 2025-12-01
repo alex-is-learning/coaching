@@ -9,7 +9,7 @@ aliases:
 - So I've been embedded in the "healing" space for ~3 years now
 	- See e.g. [So you want to learn about the post-rationalist "healing" space? (2025-11-10)](https://alexislearning.me/scrapbook/3.-Improving-lived-experience/1.-Healing/So-you-want-to-learn-about-the-post-rationalist-%22healing%22-space-(2025-11-10))
 - I want to do free! coaching, as an experiment!
-- Calendly link [here](https://calendly.com/alexanderklarge/call)
+- Book me via www.alexislearning.me/cal
 ## Hypothesis - coaching can be simple
 - I think coaching can be really quite simple:
 	1. Create a container
